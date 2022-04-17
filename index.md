@@ -7,6 +7,7 @@
 - [anamation](./anamation.html)
 - [data visualization](./indexes.html)
 - [phaser game](./game.html)
+ - [voice recognition](./hi.html)
  ### Labs
 - [chart program](https://codepen.io/kingtilon1/pen/popJaYR)
  - [sprite Images](./test.html)
