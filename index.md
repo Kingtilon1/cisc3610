@@ -7,7 +7,7 @@
  ### Labs
 - [chart program](https://codepen.io/kingtilon1/pen/popJaYR)
  - [sprite Images](./test.html)
- - [simple form](./form.html)
+ - [simple form](.//form.html)
 
 
 
