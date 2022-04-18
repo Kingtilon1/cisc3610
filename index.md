@@ -13,7 +13,7 @@
 - [chart program](https://codepen.io/kingtilon1/pen/popJaYR)
  - [sprite Images](./test.html)
  - [simple form](.//form.html)
- - [audio lab](./audiolab3.html)
+ - [audio lab](./AudioLab.html)
 
 ###  Contact
 - phone-123-456-7892
