@@ -14,7 +14,7 @@
  - [sprite Images](./test.html)
  - [simple form](.//form.html)
  - [audio lab](./AudioLab.html)
- - [video lab](./videolab/videoss.html)
+ - [video lab](.videoss.html)
 
 ###  Contact
 - phone-123-456-7892
