@@ -9,6 +9,7 @@
 - [phaser game](./game.html)
  - [voice recognition](./hi.html)
  - [resume](./resume.html)
+ - [Wick editor](./dbz.html)
  ### Labs
 - [chart program](https://codepen.io/kingtilon1/pen/popJaYR)
  - [sprite Images](./test.html)
