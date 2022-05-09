@@ -7,7 +7,6 @@
 - [animation](./anamation.html)
 - [data visualization](./indexes.html)
 - [phaser game](./game.html)
- - [voice recognition](./hi.html)
  - [resume](./resume.html)
  - [Wick editor](./dbz.html)
  
